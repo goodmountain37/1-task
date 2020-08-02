@@ -60,15 +60,15 @@ main {
 }
 
 .service-list-item:nth-child(1) .service-image {
-  background-image: url(/img/flow01.png);
+  background-image: url(img/flow01.png);
 }
 
 .service-list-item:nth-child(2) .service-image {
-  background-image: url(/img/flow02.png);
+  background-image: url(img/flow02.png);
 }
 
 .service-list-item:nth-child(3) .service-image {
-  background-image: url(/img/flow03.png);
+  background-image: url(img/flow03.png);
 }
 
 .service-headline {
